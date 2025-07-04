@@ -4,9 +4,9 @@ Eu sou a Bela e eu quero ser uma designer de jogos!
 
 Sempre gostei muito de jogos, de qualquer tipo (apesar de gostar menos no que eu sou especialmente ruim - olá FPSs da vida).
 
-Tenho estudado lógica, linguagem de programação e desenvolvimento de jogos propriamente dito. Comecei pelo lindo Python, o que me ajudou a não me assustar muito quando me deparo com outras linguagens (mas tirou meu couro no curso da USP que fiz). Ultimamente tenho visto e aprendido mais sobre C#, já que tenho estudado como fazer jogos 2D e mexer na Unity. 👾
+Tenho estudado lógica, linguagem de programação e desenvolvimento de jogos propriamente dito. Comecei pelo lindo Python, o que me ajuda a não me assustar muito quando me deparo com outras linguagens (mas tirou meu couro no curso da USP que fiz). Ultimamente tenho visto e aprendido mais sobre C#, já que tenho estudado como fazer jogos 2D e mexer na Unity. 👾
 
-Também gosto de estudar línguas. Sei bem inglês (uso bastante para ler mangá, conversar com colegas de jogo e ver vídeos de comediantes frequentemente). Já estudei espanhol, francês e já me aventurei em outras como coreano e russo (sim, eu ainda lembro o alfabeto!). Atualmente comecei a estudar japonês e seus temíveis 3 alfabetos (1 de 3 já foram e sim, estou falando do Hiragana ;-;)
+Também gosto de estudar línguas. Sei bem inglês (frequentemente uso para ler mangá, conversar com colegas de jogo e assistir vídeos de comediantes). Já estudei espanhol, francês e já me aventurei em outras como coreano e russo (sim, eu ainda lembro o alfabeto!). Atualmente comecei a estudar japonês e seus temíveis 3 alfabetos (1 de 3 já foram e sim, estou falando do Hiragana ;-;)
 
 Por enquanto é isso, tchau 🙅‍♀️
 
